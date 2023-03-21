@@ -1,4 +1,4 @@
-baseURL = "https://feur.com"
+baseURL = "https://feurfeur.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
