@@ -23,4 +23,5 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/french/blog/post-du-feur.md
 - exampleSite/i18n/feur.md
